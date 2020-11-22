@@ -16,7 +16,7 @@ public class PBOIF210119079Latihan51GajiKaryawan {
         Manager manager = new Manager();
         Scanner input = new Scanner(System.in);
         
-                //input
+        
         System.out.println("=====Program Perhitungan Gaji Karyawan=====");
         System.out.print("Masukkan NIK      : ");
         manager.setNik(input.nextLine());
